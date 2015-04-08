@@ -128,42 +128,41 @@ This wall shows Mun's personal shipping wall with a disclaimer. Special links wi
 
 8\. [KND|G:KND](http://knd.wikia.com/wiki/Main_Page)
 
-9\. Power Puff Girls
+9\. Kill la Kill
 
-10\. Ed, Edd, Eddy
+10\. RPG Games|Indie Games|Retro Games
 
 11\. Harry Potter
 
-12\. Gravity Falls
+12\. Fandom Related Music|Chiptunes
 
-13\. Bob's Burgers
+13\. Land of tumblr
 
-14\. Kill la Kill
+14\. Fuckboi Survival Guide
 
-15\. RPG Games|Indie Games|Retro Games
+15\. LGBTQQIAAAP - Lesiban, Gay, Bisexual, Transexual, Queer, Questioning, Intersex, Asexual, Aromantic, Ally, Pansexual
 
-16\. Fandom Related Music|Chiptunes
+16\. Self Care
 
-17\. Fuckboi Survival Guide
-
-18\. LGBTQQIAAAP - Lesiban, Gay, Bisexual, Transexual, Queer, Questioning, Intersex, Asexual, Aromantic, Ally, Pansexual
-
-19\. Self Care
-
-20\. tumblr user art
 
 
 ###UI capabilities
-+ Interaction is much like a video game, but also a tron like element, schoolfeeding can also be considered a theme.
++ Interaction is much like a retro video game.
 + search and password errors will be logged so adjust JS to include comon errors (but only if they include what the desire item was and a resonable amount of errors have happened)
 + all HS character text will be formatted in their color and quirk
 + All other text will be formatted in player quirk
 + individal character tag screen will have a custom BG(tiled) and BGM(one song)
 + ?grimdark|trickster|crockertier toggle?
++ transitions in galaxy map (planet orbits, pulsing pixels, differnt layered animations that click through to special tags)
++ expand/popouts of planet titles and or locations
++ MOBILE: one finger side scroll through nagivation
++ popup pixel of answers to Password tag entry
++ Animations for entering special passwords (including cheat code list = "Konami", Special Mun Page ="TBA")
++ more interactive music player (when adjusting music preference, audio pauses and notifies you of it; choose skins, option of going straight to the music page ="what me spin these beats old school")
 
 ###loading screens
 + the seven gates (for HS related characters)
 + horrorterror loading bar with hints in their language, (for particular dreamers, sollux defeats to the seven gates)
 + random marquee with HS trivia in Troll type, (all non HS tags)
 + Bonus Level bar loading (mun pages)
-+ 
++ ?personalized screen of pixel chibi version of me in animation with character off screen?
